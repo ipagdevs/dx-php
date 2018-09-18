@@ -1,7 +1,7 @@
 {
-  "name": "mercadopago/dx-php",
+  "name": "ipagdevs/dx-php",
   "type": "library",
-  "homepage": "https://github.com/mercadopago/dx-php",
+  "homepage": "https://github.com/ipagdevs/dx-php",
   "license": "MIT",
   "authors": [
     {
